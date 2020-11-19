@@ -9,9 +9,8 @@ Este projeto é constituído da criação de um API,  com o qual poderão ser re
 
 O banco de dados utilizado é o MongoDB, onde após a atualização de dados , foi gerado gráficos com a ferramenta Mongo Charts (Circular e Geospatial).
 
+Segue link dos gráficos: https://charts.mongodb.com/charts-project_api_mongo-fpmdz/public/dashboards/229248da-60f9-42d5-b9d3-5e1aa4626553
 
-
-<img src="C:\Users\Hector\AppData\Roaming\Typora\typora-user-images\image-20201119160547849.png" alt="image-20201119160547849" style="zoom:80%;" />
 
 Construído baseado no curso da DIO, ministrado por Gabriel Faraday. 
 
